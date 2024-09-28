@@ -5,7 +5,7 @@ import 'routes/app_pages.dart';
 
 void main() async {
   runApp(GetMaterialApp(
-    title: "Ankur Maity",
+    title: "Show Go Travels",
     initialRoute: AppPages.initialPage,
     getPages: AppPages.routes,
     debugShowCheckedModeBanner: false,
